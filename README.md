@@ -1,6 +1,7 @@
 # Conways-Game-Of-Life-with-Pointers
 Function parameter is an array containing pointers
 
+
 5 Patterns loaded by default  
 
 Compilation:
